@@ -1,8 +1,8 @@
-# [ZoneTex](https://zone-tex.com/) - Textile Export Company Portfolio
+# <a href="https://zone-tex.com/" target="_blank">ZoneTex</a>  - Textile Export Company Portfolio
 
 A professional portfolio website for a textile export company built with modern web technologies.
 
-**Link for the Site:** [zone-tex.com](https://zone-tex.com/)
+**Link for the Site:**   <a href="https://zone-tex.com/" target="_blank">zone-tex.com</a> 
 
 
 ## Technologies
